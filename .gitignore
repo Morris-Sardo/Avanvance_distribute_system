@@ -1,0 +1,102 @@
+# Operating System Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+*~
+
+# IDE and Editor Files
+.vscode/
+.idea/
+*.swp
+*.swo
+*.swn
+*.bak
+*.tmp
+.project
+.classpath
+.settings/
+*.iml
+*.sublime-*
+
+# Build Directories
+/build/
+/dist/
+/out/
+/target/
+*.class
+*.jar
+*.war
+*.ear
+
+# Dependency Directories
+node_modules/
+jspm_packages/
+bower_components/
+vendor/
+venv/
+env/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Package Files
+*.tar.gz
+*.zip
+*.rar
+*.7z
+
+# Logs and Databases
+*.log
+*.sql
+*.sqlite
+*.db
+logs/
+*.pid
+*.seed
+*.pid.lock
+
+# Environment and Configuration
+.env
+.env.local
+.env.*.local
+config.local.json
+secrets/
+*.pem
+*.key
+*.cert
+
+# Test Coverage
+coverage/
+.nyc_output/
+htmlcov/
+.coverage
+.coverage.*
+.pytest_cache/
+*.cover
+
+# Temporary Files
+tmp/
+temp/
+*.cache
+.cache/
+.parcel-cache/
+
+# Docker
+.dockerignore
+docker-compose.override.yml
+
+# Compiled Source
+*.com
+*.dll
+*.exe
+*.o
+*.so
+
+# Application Specific
+data/
+backups/
+uploads/
